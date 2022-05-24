@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @banalok
+- 👋 Hi, I’m Alok @banalok
 - 👀 I’m interested in learning, in general.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently spending my time on being more familiar with Machine learning and Tableau.
 
 
 <!---
