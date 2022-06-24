@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alok @banalok
 - 👀 I’m interested in learning, in general.
-- 🌱 I’m currently trying to spend my time on being more familiar with Machine learning and Tableau.
+- 🌱 I’m currently trying to spend my time on being more familiar with Tableau, Machine learning and Deep learning.
 
 
 <!---
